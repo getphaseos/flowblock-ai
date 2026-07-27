@@ -20,3 +20,5 @@ Any install counts or aggregate usage information visible to the developer come 
 ---
 
 **Disclaimer:** PhaseGuard AI is provided “as is” without warranty of any kind. Use at your own risk. The developers are not responsible for any issues that may arise from its use.
+
+<img width="1280" height="800" alt="PhaseGuard-Store-Screenshot-1-Hero" src="https://github.com/user-attachments/assets/909c7af5-3e78-4915-be82-28aacaae2d7a" />
