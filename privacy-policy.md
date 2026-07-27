@@ -1,8 +1,8 @@
-# Privacy Policy – FlowBlock AI
+# Privacy Policy – PhaseGuard AI
 
 **Last updated:** July 26, 2026
 
-FlowBlock AI does not collect, transmit, or sell any user data.
+PhaseGuard AI does not collect, transmit, or sell any user data.
 
 The extension itself does not send any telemetry, error reports, crash reports, usage statistics, or other data to the creators.
 
@@ -19,4 +19,4 @@ Any install counts or aggregate usage information visible to the developer come 
 
 ---
 
-**Disclaimer:** FlowBlock AI is provided “as is” without warranty of any kind. Use at your own risk. The developers are not responsible for any issues that may arise from its use.
+**Disclaimer:** PhaseGuard AI is provided “as is” without warranty of any kind. Use at your own risk. The developers are not responsible for any issues that may arise from its use.
